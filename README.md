@@ -2,7 +2,7 @@
 
 The information provided here includes things I found helpful for getting started.  
 
-This guide is intended as a supplement to the existing ComfyUI README.md, which you can find here: [ComfyUI GitHub](https://github.com/comfyanonymous/ComfyUI)   
+This starter is intended as a supplement to the existing ComfyUI README.md, which you can find here: [ComfyUI GitHub](https://github.com/comfyanonymous/ComfyUI)   
 
 It assumes that you have already successfully installed ComfyUI. 
 
