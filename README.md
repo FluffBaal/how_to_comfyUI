@@ -47,5 +47,5 @@ Basic text-to-image workflow:
 - Includes ComfyUI Manager by default.
 - Ideal for beginners: [Download here](https://www.comfy.org/download)
 
-This guide will quickly get you started with ComfyUI, empowering you to easily generate and customize AI-generated images.
+happy generating!
 
